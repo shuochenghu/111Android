@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">counter</string>
-    <string name="increase">增加計數</string>
-    <string name="zero">計數歸零</string>
-</resources>
